@@ -2,7 +2,7 @@ line 1
 line 2 this will change the line
 line 2
 line 3
-line 4
+line 4 : This will conflict
 line 5  adf
 line 6
  
